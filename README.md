@@ -28,6 +28,10 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) \
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)
 
+
+​
+### ⚙️ &nbsp;GitHub Analytics
+​
 ![Git Status](https://github-readme-stats.vercel.app/api?username=Raihan-Chowdhury&&show_icons=true&title_color=DA70D6&icon_color=FF7F50&text_color=daf7dc&bg_color=151515)
 
 
