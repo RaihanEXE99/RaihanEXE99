@@ -9,6 +9,15 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+### ⚙️ &nbsp;Languages I have used
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) \
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) \
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
+![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)\
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) \
+![C](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C&logoColor=DA70D6)
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
