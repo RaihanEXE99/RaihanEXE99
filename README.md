@@ -1,11 +1,11 @@
 ### Hi there i'm Raihan Chowdhury 👋
 
 - 🌱 I’m currently learning Go ...
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓 I'm currently studying Computer Science and Engineering.
+- 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
 - 📫 How to reach me: [Discord](https://discord.gg/xP9wH4NVWt) , [Facebook](https://www.facebook.com/raihan.islam.35728)...
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.\
-- 🎓 I'm currently studying Computer Science and Engineering.\
-- 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.\
-- ✉️ You can shoot me an email at RaihanChowdhury.Next@gmail.com! I'll try to respond as soon as I can.\
+- ✉️ You can shoot me an email at RaihanChowdhury.Next@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
