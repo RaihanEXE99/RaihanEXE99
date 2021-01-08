@@ -16,19 +16,17 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
 ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)\
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) \
-![C](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C&logoColor=DA70D6)
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C)
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) \
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) 
+![Vue](https://img.shields.io/badge/-vue-05122A?style=flat&logo=vue) 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20) \
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) \
+![Futter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20) 
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) \
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) \
