@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) \
 ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)\
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) \
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C)
+![C#](https://img.shields.io/badge/-C#-05122A?style=flat)
 
 ### 🛠 &nbsp;Tech Stack
 
