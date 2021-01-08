@@ -35,3 +35,5 @@
 ​
 ![Git Status](https://github-readme-stats.vercel.app/api?username=Raihan-Chowdhury&&show_icons=true&title_color=DA70D6&icon_color=FF7F50&text_color=daf7dc&bg_color=151515)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=raihan-chowdhury&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
