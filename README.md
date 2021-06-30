@@ -5,7 +5,7 @@
 - 🎓 I'm currently studying Computer Science and Engineering.
 - 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
 - 📫 How to reach me: [Discord](https://discord.gg/xP9wH4NVWt) , [Facebook](https://www.facebook.com/RaihanEXE99)...
-- ✉️ You can shoot me an email at RaihanChowdhury.Next@gmail.com! I'll try to respond as soon as I can.
+- ✉️ You can shoot me an email at RaihanEXE99@gmail.com! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
