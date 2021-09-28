@@ -1,7 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/header.png"></p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/Pokemon.gif" height="40">
    Hi ,I'm Raihan Chowdhury 
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
