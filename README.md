@@ -53,20 +53,15 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=Raspberry-Pi)
 
 
-​
 ### ⚙️ &nbsp;GitHub Analytics
-​
-
 <a href="https://github.com/JisanEAE77">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanEXE99&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanEXE99&theme=highcontrast&theme=highcontrast&hide_border=true"/>
 </a>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raihanEXE99&theme=juicyfresh&column=4&margin-w=15&no-frame=true&&margin-h=15" />
 </p>
-  
 -----
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=raihanEXE99&theme=rogue&hide_border=true&area=true)
