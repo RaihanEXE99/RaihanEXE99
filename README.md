@@ -53,6 +53,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=Raspberry-Pi)
 
 
+
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BRaihanEXE99%7D/count.svg" alt="visitor badge"/></p>
 
@@ -64,7 +65,6 @@
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaihanEXE99&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
 <a href="https://github.com/RaihanEXE99">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihanEXE99&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide_border=true"/>
-  
 </a>
 </p>
 <p align="center">
