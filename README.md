@@ -59,7 +59,7 @@
 
 <h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanEXE99&theme=highcontrast&theme=highcontrast&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanEXE99&theme=highcontrast&theme=highcontrast&hide_border=true"/>
    </p>
 <p align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaihanEXE99&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
@@ -79,3 +79,6 @@
 <p align="center">
   <img src="https://i.ppy.sh/1ffa9ee3019de39c9cfbed6990da9d0807b0429a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32392f37322f31392f32393732313935663032636535656539363332653362336232636637386561622e6a7067" />
 </p>
+
+-----
+Credits: <a href="github.com/RaihanEXE99">RaihanEXE99 </a>
