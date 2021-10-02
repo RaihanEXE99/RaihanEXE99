@@ -13,7 +13,6 @@
 - ✉️ You can shoot me an email at RaihanEXE99@gmail.com! I'll try to respond as soon as I can.
 
 
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### ⚙️ &nbsp;Languages 
@@ -26,8 +25,6 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
 
 ### 🛠 &nbsp;Tech Stack
-
-
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -52,7 +49,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat-square&logo=Raspberry-Pi)
-
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BRaihanEXE99%7D/count.svg" alt="visitor badge"/></p>
