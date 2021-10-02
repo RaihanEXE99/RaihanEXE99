@@ -28,6 +28,7 @@
 ### 🛠 &nbsp;Tech Stack
 
 
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20) 
@@ -78,4 +79,4 @@
 </p>
 
 -----
-Credits: <a href="github.com/RaihanEXE99">RaihanEXE99 </a>
+Credits: <a href="https://github.com/RaihanEXE99">RaihanEXE99 </a>
