@@ -54,7 +54,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BRaihanEXE99%7D/count.svg" alt="visitor badge"/></p>
 <h2 style="margin: 5px 10px;">⚙️ &nbsp;GitHub Analytics</h2> 
 <p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanEXE99&theme=highcontrast&theme=highcontrast&hide_border=true"/>
+   <img height="180em" src="https://raihan-chowdhury.herokuapp.com/?user=RaihanEXE99&theme=highcontrast&theme=highcontrast&hide_border=true"/>
    </p>
 <p align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RaihanEXE99&layout=compact&langs_count=8&theme=highcontrast&hide_border=true"/>
