@@ -13,7 +13,7 @@
 - ✉️ You can shoot me an email at RaihanEXE99@gmail.com! I'll try to respond as soon as I can.
 
 
-<img alt="Raihan Chowdhury RaihanEXE99 BinaryBeast BrainStation" src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/RaihanEXE99%20Raihan%20Chowdhury%20BinaryBeast.jpeg" align="right"/>
+<img width="300px" alt="Raihan Chowdhury RaihanEXE99 BinaryBeast BrainStation" src="https://raw.githubusercontent.com/RaihanEXE99/RaihanEXE99/main/assets/RaihanEXE99%20Raihan%20Chowdhury%20BinaryBeast.jpeg" align="right"/>
 
 ### ⚙️ &nbsp;Languages 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC) 
