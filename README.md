@@ -5,7 +5,7 @@
   <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
-- 🌱 I’m currently learning Blockchain  ...
+- 🌱 I’m currently learning Blockchain,Go  ...
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 I'm currently studying Computer Science and Engineering.
 - 🌱 I'm on track for learning more about Back-end and Artificial Intelligence.
