@@ -20,7 +20,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![C#](https://img.shields.io/badge/-php-05122A?style=flat)
+![C#](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![GO](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart) 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat)
